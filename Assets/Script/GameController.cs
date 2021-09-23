@@ -42,7 +42,7 @@ public class GameController : MonoBehaviour
         _text = new string[4];
         _text[0] = "Selamat Datang\nDi\nWuhan China";
         _text[1] = "Buka Angpao";
-        _text[2] = "Selamat <3";
+        _text[2] = "Selamat Menikmati Corona <3";
         _text[3] = "Kembali Keawal";
     }
 
