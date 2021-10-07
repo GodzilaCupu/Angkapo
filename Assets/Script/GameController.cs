@@ -31,7 +31,6 @@ public class GameController : MonoBehaviour
     {
         if(isOpen == false)
             btn.GetComponent<Button>().onClick.AddListener(SetAnimOn);
-        
         if(isOpen == true)
             btn.GetComponent<Button>().onClick.AddListener(SetAnimOff);
 
